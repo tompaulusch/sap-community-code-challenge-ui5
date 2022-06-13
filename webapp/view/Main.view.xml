@@ -1,0 +1,12 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<Page>
+	<content>
+		<Button id="mainButton" text="hello" />
+		<List headerText="List">
+		<ActionListItem text="Hello" />
+		<ActionListItem text="World" />
+		<ActionListItem text="!" />
+		</List>
+	</content>
+</Page>
+</mvc:View>
